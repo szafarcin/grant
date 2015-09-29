@@ -321,6 +321,13 @@
     "scope_delimiter": " ",
     "custom_parameters": ["access_type","approval_prompt"]
   },
+  "gcalendar": {
+    "authorize_url": "https://accounts.google.com/o/oauth2/auth",
+    "access_url": "https://accounts.google.com/o/oauth2/token",
+    "oauth": 2,
+    "scope_delimiter": " ",
+    "custom_parameters": ["access_type","approval_prompt"]
+  },
   "concur": {
     "authorize_url": "https://www.concursolutions.com/net2/oauth2/Login.aspx",
     "access_url": "https://www.concursolutions.com/net2/oauth2/GetAccessToken.ashx",
